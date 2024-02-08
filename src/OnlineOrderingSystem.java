@@ -4,7 +4,8 @@ public class OnlineOrderingSystem {
         MenuItem[] menuItems = new MenuItem[] {
             new Burger("Chicken burger", 12, "Bun, chicken, cheese, tomato, BBQ sauce"),
             new Pizza("Pizza 4 fromages", 16, "Mozzarella, Brie, Maroilles, Bleu de Bresse"),
-            new Salad("Salmon tartar salad", 9.5, "Rice, salmon, tomato")
+            new Salad("Salmon tartar salad", 9.5, "Rice, salmon, tomato"),
+            new Bread("Baguette aux graines", 1.3, "Flour, yeast, salt")
         };
 
 
